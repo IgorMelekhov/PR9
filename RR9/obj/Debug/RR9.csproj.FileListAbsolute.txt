@@ -1,0 +1,45 @@
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\bin\Debug\RR9.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\bin\Debug\RR9.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\bin\Debug\RR9.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\obj\Debug\RR9.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\obj\Debug\RR9.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\obj\Debug\RR9.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\obj\Debug\RR9.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\PR9\RR9\obj\Debug\RR9.pdb
+C:\Users\79537\Source\Repos\PR9\RR9\obj\Debug\RR9.csproj.AssemblyReference.cache
+C:\Users\79537\Source\Repos\PR9\RR9\obj\Debug\RR9.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\bin\Debug\RR9.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\bin\Debug\RR9.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\bin\Debug\RR9.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\obj\Debug\RR9.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\obj\Debug\RR9.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\obj\Debug\RR9.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\obj\Debug\RR9.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\RR9\obj\Debug\RR9.pdb
+C:\Users\79537\source\repos\RR9\bin\Debug\RR9.exe.config
+C:\Users\79537\source\repos\RR9\bin\Debug\RR9.exe
+C:\Users\79537\source\repos\RR9\bin\Debug\RR9.pdb
+C:\Users\79537\source\repos\RR9\obj\Debug\RR9.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\RR9\obj\Debug\RR9.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\RR9\obj\Debug\RR9.exe
+C:\Users\79537\source\repos\RR9\obj\Debug\RR9.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\obj\Debug\RR9.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\obj\Debug\RR9.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\obj\Debug\RR9.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\Новая папка\RR9\obj\Debug\RR9.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\Новая папка\RR9\obj\Debug\RR9.csproj.CoreCompileInputs.cache
+C:\Users\79537\Source\Repos\PR9\RR9\bin\Debug\а.exe.config
+C:\Users\79537\Source\Repos\PR9\RR9\bin\Debug\а.exe
+C:\Users\79537\Source\Repos\PR9\RR9\bin\Debug\а.pdb
+C:\Users\79537\Source\Repos\PR9\RR9\obj\Debug\а.exe
+C:\Users\79537\Source\Repos\PR9\RR9\obj\Debug\а.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\bin\Debug\а.exe.config
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\bin\Debug\а.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\bin\Debug\а.pdb
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\obj\Debug\а.exe
+D:\Users\1213-3\Documents\2-ИСП\основы программирования\Мелехов\Новая папка\RR9\obj\Debug\а.pdb
+C:\Users\79537\source\repos\Новая папка\RR9\bin\Debug\а.exe.config
+C:\Users\79537\source\repos\Новая папка\RR9\bin\Debug\а.exe
+C:\Users\79537\source\repos\Новая папка\RR9\bin\Debug\а.pdb
+C:\Users\79537\source\repos\Новая папка\RR9\obj\Debug\а.exe
+C:\Users\79537\source\repos\Новая папка\RR9\obj\Debug\а.pdb
